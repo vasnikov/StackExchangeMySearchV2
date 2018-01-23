@@ -43,7 +43,7 @@
 <form method="get" action="/search" enctype="multipart/form-data">
     <table>
         <tr>
-            <td><label for="tags">Искать по тэгам (разделитель запятая)</label></td>
+            <td><label for="tags">Искать по тэгам (разделитель ';')</label></td>
             <td><input type="text" name="tags" id="tags" th:value="${tags}"/></td>
         </tr>
         <tr>
@@ -53,6 +53,14 @@
         <tr>
             <td><label for="tags">Размер массива (pageSize)</label></td>
             <td><input type="text" name="pagesize" id="pagesize" th:value="${pagesize}"/></td>
+        </tr>
+        <tr>
+            <td><label for="mode">Способ </label></td>
+            <td><select name="mode" id="mode">
+                    <option value="JSON" th:selected="${mode}=='JSON'">JSON</option>
+                    <option value="API" th:selected="${mode}=='API'">API</option>
+                </select>
+            </td>
         </tr>
 
     </table>

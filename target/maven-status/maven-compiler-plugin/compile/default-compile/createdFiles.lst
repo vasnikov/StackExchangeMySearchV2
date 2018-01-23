@@ -1,6 +1,13 @@
-ru\rit\User.class
-ru\rit\FillQuestions.class
+ru\rit\QuestionsViaJson$1.class
+ru\rit\Generated\Answers.class
+ru\rit\Generated\User.class
+ru\rit\Generated\Question.class
+ru\rit\QuestionsViaAPI.class
 ru\rit\StackExchangeMySearchApplication.class
-ru\rit\Question.class
+ru\rit\QuestionsViaJson.class
+ru\rit\QuestionsViaJson$2.class
+ru\rit\Generated\Answer.class
+ru\rit\Generated\Users.class
+ru\rit\Generated\Questions.class
 ru\rit\Controllers\MyController.class
 ru\rit\Answer.class

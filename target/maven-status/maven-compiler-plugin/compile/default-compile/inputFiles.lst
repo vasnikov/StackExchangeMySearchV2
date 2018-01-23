@@ -1,6 +1,9 @@
-C:\repo\stackexchangemysearch\src\main\java\ru\rit\Controllers\MyController.java
-C:\repo\stackexchangemysearch\src\main\java\ru\rit\Question.java
-C:\repo\stackexchangemysearch\src\main\java\ru\rit\StackExchangeMySearchApplication.java
-C:\repo\stackexchangemysearch\src\main\java\ru\rit\User.java
+D:\repo\StackExchangeMySearch\src\main\java\ru\rit\QuestionsViaJson.java
+D:\repo\StackExchangeMySearch\src\main\java\ru\rit\Generated\Questions.java
+D:\repo\StackExchangeMySearch\src\main\java\ru\rit\Generated\Users.java
+D:\repo\StackExchangeMySearch\src\main\java\ru\rit\Generated\Answers.java
 C:\repo\stackexchangemysearch\src\main\java\ru\rit\FillQuestions.java
-C:\repo\stackexchangemysearch\src\main\java\ru\rit\Answer.java
+D:\repo\StackExchangeMySearch\src\main\java\ru\rit\Generated\User.java
+D:\repo\StackExchangeMySearch\src\main\java\ru\rit\Generated\Question.java
+D:\repo\StackExchangeMySearch\src\main\java\ru\rit\Generated\Answer.java
+D:\repo\StackExchangeMySearch\src\main\java\ru\rit\QuestionsViaAPI.java
